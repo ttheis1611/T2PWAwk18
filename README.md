@@ -3,7 +3,7 @@
 
 
 ## Description
-A budget tracker tool that will allow for offline work to be accomplished.
+A budget tracker tool that will allow for offline work to be accomplished. The deployed link is: https://t2budgettrackerwk19.herokuapp.com/
 
 ## Contents
 * [Installation](#installation)
